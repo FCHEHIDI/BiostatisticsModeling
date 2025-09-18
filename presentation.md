@@ -2,9 +2,9 @@
 
 ## Scientific Research Presentation
 
-**Authors**: Biostatistics Analysis Team  
+**Authors**: Biostatistics Analysis
 **Date**: September 18, 2025  
-**Venue**: Clinical Research Conference  
+**Venue**: Clinical Research, Biostatistics  
 **GitHub**: [BiostatisticsModeling Repository](.)
 
 ---
@@ -308,26 +308,6 @@ graph LR
 - **Improved Outcomes**: Earlier detection, personalized treatment
 - **Resource Optimization**: Targeted interventions for high-risk patients
 
-### **Future Research Directions**
-
-#### **Short-term (6-12 months)**
-1. **Prospective Validation**: Clinical trials with patient outcome endpoints
-2. **Bias Analysis**: Performance validation across demographic subgroups
-3. **External Validation**: Testing on independent healthcare datasets
-4. **Usability Studies**: Provider acceptance and workflow integration
-
-#### **Medium-term (1-2 years)**
-1. **Regulatory Submission**: FDA pre-submission for medical device pathway
-2. **Multi-center Studies**: Validation across diverse healthcare settings
-3. **Real-world Evidence**: Post-deployment performance monitoring
-4. **Comparative Effectiveness**: Head-to-head comparisons with standard care
-
-#### **Long-term (2-5 years)**
-1. **Precision Medicine**: Integration with genomic and molecular data
-2. **Federated Learning**: Multi-institutional model development
-3. **Longitudinal Studies**: Long-term patient outcome tracking
-4. **Global Deployment**: International regulatory approvals and implementation
-
 ### **Limitations & Considerations**
 
 #### **Study Limitations**
@@ -359,7 +339,7 @@ graph LR
 - **Methodology Documentation**: Version-controlled in repository
 
 ### **Contact & Collaboration**
-- **Principal Investigator**: [Contact Information]
+- **Principal Investigator**: fareschehidi7@gmail.com 
 - **Collaboration Opportunities**: Open to academic and industry partnerships
 - **Open Source**: All code and methodology freely available
 - **Reproducibility**: Complete analysis pipeline documented and shareable
@@ -377,4 +357,5 @@ graph LR
 
 *This presentation represents a comprehensive approach to medical AI feature selection that prioritizes both statistical rigor and clinical relevance, establishing a foundation for regulatory-compliant healthcare AI development.*
 
-**GitHub Pages URL**: `https://[username].github.io/BiostatisticsModeling/presentation.html`
+
+**GitHub Pages URL**: `https://FCHEHIDI.github.io/BiostatisticsModeling/presentation.html`
