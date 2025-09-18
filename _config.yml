@@ -1,10 +1,10 @@
 theme: minima
 title: "Biostatistics & Medical AI Research"
 description: "Comprehensive Feature Selection in Clinical Research"
-author: "Biostatistics Analysis Team"
-email: research@biostatistics.org
+author: "Biostatistics Analysis"
+email: fareschehidi7@gmail.com
 baseurl: ""
-url: "https://your-username.github.io"
+url: "https://FCHEHIDI.github.io"
 
 # Navigation
 navigation:
@@ -15,7 +15,7 @@ navigation:
   - title: "Glossary" 
     url: /glossary
   - title: "GitHub"
-    url: https://github.com/your-username/BiostatisticsModeling
+    url: https://github.com/FCHEHIDI/BiostatisticsModeling
 
 # Plugins
 plugins:
@@ -53,6 +53,7 @@ defaults:
 footer:
   links:
     - title: "GitHub"
-      url: "https://github.com/your-username/BiostatisticsModeling"
+      url: "https://github.com/FCHEHIDI/BiostatisticsModeling"
     - title: "Research"
+
       url: "/presentation"
