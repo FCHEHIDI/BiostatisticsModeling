@@ -1,0 +1,58 @@
+theme: minima
+title: "Biostatistics & Medical AI Research"
+description: "Comprehensive Feature Selection in Clinical Research"
+author: "Biostatistics Analysis Team"
+email: research@biostatistics.org
+baseurl: ""
+url: "https://your-username.github.io"
+
+# Navigation
+navigation:
+  - title: "Presentation"
+    url: /presentation
+  - title: "Analysis"
+    url: /biostatistics_analysis
+  - title: "Glossary" 
+    url: /glossary
+  - title: "GitHub"
+    url: https://github.com/your-username/BiostatisticsModeling
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"
+
+# Footer
+footer:
+  links:
+    - title: "GitHub"
+      url: "https://github.com/your-username/BiostatisticsModeling"
+    - title: "Research"
+      url: "/presentation"
